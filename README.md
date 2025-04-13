@@ -45,4 +45,7 @@ Database:    MongoDB
 Tools:       Git, VSCode, Vite, Postman
 ```
 
-![](https://leetcard.jacoblin.cool/Shahid__01?site=cn)
+<h2 align="center">🧠 LeetCode Stats</h2>
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Shahid__01?site=cn" alt="LeetCode Stats" />
+</p>
