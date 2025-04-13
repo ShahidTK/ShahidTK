@@ -42,4 +42,7 @@ Languages:   C, C++, Java, JavaScript, React
 Frontend:    React, Tailwind CSS  
 Backend:     Node.js, Express.js  
 Database:    MongoDB  
-Tools:       Git, VSCode, Vite, Postman  
+Tools:       Git, VSCode, Vite, Postman
+---
+
+![](https://leetcard.Shahid__01/leetcode?site=cn)
