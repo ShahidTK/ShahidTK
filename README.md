@@ -29,10 +29,9 @@ This repo acts as my portfolio, a digital garden of my work, projects, and explo
 
 | Project | Description |
 |--------|-------------|
-| [💬 Chat App](https://github.com/ShahidTK/Chat-App.git) | A real-time chat application using Socket.IO and React |
-| [🤝 Collaborative Platform](https://github.com/ShahidTK/DevJam-2025.git) | A platform enabling live collaboration and code editing |
-| [📺 YouTube Backend Clone](https://github.com/ShahidTK/Chai-aur-Backend.git) | RESTful backend clone of YouTube features built with Node.js |
-| [🛒 Amazon Frontend Clone](https://github.com/ShahidTK/Amazone-clone.git) | Amazon UI clone built with CSS and HTML, and responsive design |
+| [💬 ChatBuddy](https://github.com/ShahidTK/ChatBuddy.git) | A real-time chat and code collaboration platform built with Socket.IO and Monaco Editor |
+| [🩺 PulseCare](https://github.com/ShahidTK/PulseCare.git) | A role-based doctor appointment booking system with real-time scheduling and payment integration |
+| [🛒 E-commerce App UI Design](https://github.com/ShahidTK/Amazone-clone.git) | Responsive user interface for an online store built using HTML and CSS |
 
 ---
 ## 🧰 Tech Stack
