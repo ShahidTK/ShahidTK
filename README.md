@@ -29,9 +29,10 @@ This repo acts as my portfolio, a digital garden of my work, projects, and explo
 
 | Project | Description |
 |--------|-------------|
-| [💬 CodeBuddy](https://github.com/ShahidTK/CodeBuddy.git) | A real-time chat and code collaboration platform built with Socket.IO and Monaco Editor |
-| [🩺 PulseCare](https://github.com/ShahidTK/PulseCare.git) | A role-based doctor appointment booking system with real-time scheduling and payment integration |
-| [🎯 Guess It](https://github.com/ShahidTK/Guess-It.git) | A web-based number guessing game that gives feedback and limited attempts to help the player guess a randomly generated number |
+| [CodeBuddy](https://github.com/ShahidTK/CodeBuddy.git) | A real-time chat and code collaboration platform built with Socket.IO and Monaco Editor |
+| [PulseCare](https://github.com/ShahidTK/PulseCare.git) | A role-based doctor appointment booking system with real-time scheduling and payment integration |
+| [BookBazaar](https://github.com/ShahidTK/Book-Bazaar) | A clean and minimal platform to browse, add, and manage your favorite books with ease |
+| [Guess It](https://github.com/ShahidTK/Guess-It.git) | A web-based number guessing game that gives feedback and limited attempts to help the player guess a randomly generated number |
 
 ---
 ## 🧰 Tech Stack
